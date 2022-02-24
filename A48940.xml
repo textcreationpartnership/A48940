@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tythe no gospel maintenance for gospel ministers In an epistle to all who conscienciously suffer for not paying them. By William Loddington.</title>
+            <author>Loddington, William, 1626?-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48940</idno>
+            <idno type="STC">Wing L2808</idno>
+            <idno type="STC">ESTC R220162</idno>
+            <idno type="EEBO-CITATION">99831588</idno>
+            <idno type="PROQUEST">99831588</idno>
+            <idno type="VID">36052</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36052)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tythe no gospel maintenance for gospel ministers In an epistle to all who conscienciously suffer for not paying them. By William Loddington.</title>
+                  <author>Loddington, William, 1626?-1711.</author>
+               </titleStmt>
+               <extent>27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle, near the Meeting-house in White-Hart-Court in Gracious-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect; cropped and stained with some loss of text.</note>
+                  <note>Reproduction of the original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Tithes --  England --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36052:1" rendition="simple:additions"/>
+            <p>TYTHE NO Goſpel Maintenance FOR Goſpel Miniſters.</p>
+            <p>In an EPISTLE to all who Conſcienciouſly ſuffer for not Paying them.</p>
+            <p>By <hi>William Loddington:</hi>
+            </p>
+            <q>Haec olim meminiſſe juvabit.</q>
+            <q>
+               <l>Poſterity ſhall reap the Fruits,</l>
+               <l>Of your hard Sufferings by Tythe-ſuits.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and Sold by <hi>T. Sowle,</hi> near the <hi>Meeting-houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-ſtreet.</hi> 1695.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:36052:2" rendition="simple:additions"/>
+            <pb facs="tcp:36052:2" rendition="simple:additions"/>
+            <head>To the Prieſt that Sues for Tythe.</head>
+            <l>DID thy Pariſh'oners themſelves invite</l>
+            <l>Thee to their Pulpit? Do they ſtill delight</l>
+            <l>To hear thee Preach? <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I ſhall not gainſay.</l>
+            <l>
+               <hi>Nulla volenti fit injuria.</hi>
+            </l>
+            <l>He that is free to hear, ſhould freely pay.</l>
+            <l>But if within thy Pariſh any dwell,</l>
+            <l>Who ſee the Way, which doth thy Ways excel;</l>
+            <l>Here is for Thee and Them a Dram that may</l>
+            <l>God's Power Co-working, purge thy wrath away;</l>
+            <l>And ſtrengthen them, that in a Suffering Seaſon,</l>
+            <l>Men may not judge them wilful, void of</l>
+            <pb facs="tcp:36052:3"/>
+            <l>Truth having taught us rightly to divide</l>
+            <l>What things are God's, and what's on <hi>Cae<g ref="char:EOLhyphen"/>ſar</hi>'s ſide.</l>
+            <l>Let not Man's Idol Self divert thine Eyes,</l>
+            <l>Then this may prove to thee a richer Prize</l>
+            <l>Than <hi>Levi</hi>'s Tythe. For if thou wouldſt advance</l>
+            <l>Chriſt's glorious Goſpel; truſt his<note n="*" place="margin">1 Cor. 1.9, 14.</note> Maintenance.</l>
+            <bibl>
+               <hi>W. L.</hi>
+            </bibl>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="5" facs="tcp:36052:3"/>
+            <head>TYTHE NO Goſpel Maintenance FOR Goſpel Miniſters.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>IN the weighty Senſe of God's Ho<g ref="char:EOLhyphen"/>nour, and the Peoples Welfare, both which are eminently con<g ref="char:EOLhyphen"/>cern'd in your Sufferings, do I ſalute you; deſiring all Grace and Peace, Courage and Conſtancy, may be in You.</p>
+            <p>You may probably expect harder Sufferings than many others, for ma<g ref="char:EOLhyphen"/>ny
+<pb n="6" facs="tcp:36052:4"/>of thoſe you have to deal with, nei<g ref="char:EOLhyphen"/>ther want Wit to diſgrace us, nor Ma<g ref="char:EOLhyphen"/>lice to purſue us to the utmoſt of their Chain.</p>
+            <p>I doubt not but you are well ſatisfied in the Goodneſs of your Cauſe, though ſome of you may not have ſo many words in readineſs to defend it, as o<g ref="char:EOLhyphen"/>thers. But inward Satisfaction is be<g ref="char:EOLhyphen"/>yond Words. Yet this I knowing by long Experience, That it's a Refreſh<g ref="char:EOLhyphen"/>ment and Delight to hear that Cauſe juſtified by others, for which I ſuffer, I am concern'd to add this Mite for that end partly, as alſo to inform im<g ref="char:EOLhyphen"/>partial Readers we have Scripture and Reaſon with us.</p>
+            <p>I know many able Friends have a<g ref="char:EOLhyphen"/>bounded in this ſubject, I have only this to ſay, I know none in ſo few words. It's the more probable Men of Buſineſs will ſooner read it.</p>
+            <p>Firſt, We may obſerve for our En<g ref="char:EOLhyphen"/>couragement, how the Clergy-men (ſo called) of late Years, have retreated from pleading for Tythe upon a Goſpel Account.</p>
+            <pb n="7" facs="tcp:36052:4"/>
+            <p>With their <hi>Jure Divino,</hi> People formerly were very much frigh<g ref="char:EOLhyphen"/>ted: But now (bleſſed be God) there is ſo much Light broken forth, as diſcovers the Darkneſs of thoſe kind of Arguments for Tythe; which the Prieſt himſelf perceiving, runs now to the Law of the Land, as his beſt plea for Tythe.</p>
+            <p>Take one inſtance out of a Learned Man's Commentary upon <hi>Heb.</hi> 7. af<g ref="char:EOLhyphen"/>ter a large pleading for Tythe, he clo<g ref="char:EOLhyphen"/>ſeth up his Matter with this Queſtion, <q rend="margQuotes">'Why are Tythes under the Goſpel paid to Miniſters? Mark his Anſwer <hi>verbatim,</hi> 'It is for the moſt part the fitteſt Proportion, and that the very Heathen did obſerve about their Mi<g ref="char:EOLhyphen"/>niſters. When God himſelf ſet down a diſtinct and particular Portion for his Miniſters (he ſhould have ſaid Prieſts) he judged a Tenth part moſt convenient. Hereupon (ſaith he) good Governours have in all their Commonwealths thought meet to eſtabliſh ſuch a Portion, and where ſuch a Portion is eſtabliſhed by Law,
+<pb n="8" facs="tcp:36052:5"/>the People are bound in Conſcience to obſerve the ſame.</q>
+            </p>
+            <p>Thus we ſee how ſo Great and Learned a Man as Dr. <hi>Gouge</hi> found himſelf neceſſitated, <hi>pag.</hi> 129. to clench up his whole Argument for Tythe in his day, with the Law of the Land. And now it's become a general plea for it.</p>
+            <p>But a little more to this <hi>Heb.</hi> 7. be<g ref="char:EOLhyphen"/>cauſe I read it as the plaineſt Text in all the Scripture to prove Tythe abo<g ref="char:EOLhyphen"/>liſhed. The Author in this Chapter principally treats of the Levitical Prieſt<g ref="char:EOLhyphen"/>hood, and their Maintenance, by way of Compariſon to Chriſt and his Mini<g ref="char:EOLhyphen"/>ſtry, as if he had lived in our day, and heard our Controverſie about Tythes. Therefore to end, or rather to pre<g ref="char:EOLhyphen"/>vent all ſuch Diſputes, he firſt proves Chriſt to be an High-Prieſt after the Order of <hi>Melchiſedeck,</hi> and not after the Order of <hi>Aaron,</hi> and therefore his Mi<g ref="char:EOLhyphen"/>niſters not to be maintained, as the O<g ref="char:EOLhyphen"/>thers Prieſthood. Mark how he grants, <hi>ver.</hi> 5. That the Sons of <hi>Levi,</hi> who receive the Office of the Prieſthood,
+<pb n="9" facs="tcp:36052:5"/>have a Command to take Tythes of the People according to the Law, that is of their Brethren; but in <hi>ver.</hi> 12. The Prieſthood being changed, there is made of Neceſſity a change alſo of the Law. If any ask, Of what Law? What Anſwer can be with Sence or Reaſon, but of the Ceremonial Law, and eſpecially of Tythes, that Prieſt<g ref="char:EOLhyphen"/>hoods Maintenance, as a Branch of that Law, and in particular mention<g ref="char:EOLhyphen"/>ed by the Apoſtle upon this Occaſion. Nothing can be more plain; for if he had believed, that Tythes were to be paid to Chriſt's Miniſters, here was a very fit Opportunity to confirm it.</p>
+            <p>But for as much as the Law of the Land is moſt pleaded now; I turn to that.</p>
+            <p>
+               <q rend="margQuotes">'<hi>Obj.</hi> The Law (ſay the Clergy) which compels People to pay them Tythe, is very juſt, for Tythe is not theirs, they did not buy them when they bought their Lands, but the pur<g ref="char:EOLhyphen"/>chaſe was the cheaper, becauſe they were Tythable.</q>
+            </p>
+            <pb n="10" facs="tcp:36052:6" rendition="simple:additions"/>
+            <p>
+               <hi>Anſ.</hi> The common Anſwer to this is not to be omitted, <hi>viz.</hi> That the Writings do not except the Tythes, if they had, the Objection had been good; but the common form of Deeds, is to have and to hold every part and parcel of the Premiſes, with the Ap<g ref="char:EOLhyphen"/>purtenances. But further, It's but reaſonable, ſuch Tythe-ſick Land ſhould be ſold cheaper than other Land; for if the Buyer have Faith and Patience to ſuffer for the Good of Po<g ref="char:EOLhyphen"/>ſterity, he muſt expect great Suffer<g ref="char:EOLhyphen"/>ings and Charges, before it be Cured of this Evil. For it's not to be done by any outward Force or Might, but by the Spirit of the Lord, <hi>Zach.</hi> 4.6. The Lamb in time will have the Vi<g ref="char:EOLhyphen"/>ctory, <hi>Rev.</hi> 12.11. It's well obſerved in our Common Grammar,
+<q>Daemona non Armis ſed Morte ſubegit Ie<g ref="char:cmbAbbrStroke">̄</g>ſus.</q>
+            </p>
+            <p>And we may truly ſay—
+<pb n="11" facs="tcp:36052:6" rendition="simple:additions"/>
+               <q>
+                  <lg>
+                     <l>De<g ref="char:cmbAbbrStroke">̄</g>cima non Armis ſed Morte necatur Ieſu,</l>
+                     <l>Legibus, aut Armis non revocanda feris.</l>
+                  </lg>
+                  <lg>
+                     <l>Tythe, not by Arms, but by Chriſt's Death being ſlain;</l>
+                     <l>No Laws, or Arms can give it Life a<g ref="char:EOLhyphen"/>gain.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>But a little more to this, becauſe it's the moſt common, and thought the ſtrongeſt Objection. I grant as afore<g ref="char:EOLhyphen"/>ſaid, I bought Land the cheaper for be<g ref="char:EOLhyphen"/>ing Tythable. I will freely give Two and Twenty Years Purchaſe for Tythe-free Land, rather than Twenty for Tythable. But what is that to the Prieſt? This gives him no Right to it. Nor can any Law, as a Salary for Preach<g ref="char:EOLhyphen"/>ing; for Chriſt hath eſtabliſhed a Maintenance for his Miniſters, and it's not in the power of any Government under Heaven to change it. Where<g ref="char:EOLhyphen"/>fore ſuch as Demand Tythe by vertue of the Law of the Land, either confeſs by ſo doing, that Chriſt hath not com<g ref="char:EOLhyphen"/>manded
+<pb n="12" facs="tcp:36052:7"/>it; or that refuſers to pay are diſobedient to his Commands, or elſe that they like not his Law for their Maintenance, <hi>Luke</hi> 10.7. All which are liable to many Abſurdities.</p>
+            <p>
+               <hi>Naked Truth</hi> ſpeaks thus of Tythes, in the Second Part, <hi>pag.</hi> 30.</p>
+            <p>
+               <q rend="margQuotes">' 'Tis the idleſt of Dreams to ſay, That becauſe the Prieſthood under the Law<g ref="char:punc">▪</g> the <hi>Levites,</hi> had the Tythes of the whole Land, that therefore by the ſame Reaſon, Miniſters of the Goſpel, ſhould have the ſame Pro<g ref="char:EOLhyphen"/>portion and Allowance out of all Mens Eſtates, and that it is Sacriledge to detain them. For is the Pariſh Prieſt the Twelfth part of the Pariſh he lives in, though you alſo number with him his Family, if he have any? Or are the Clergy and their Families the Twelfth part of <hi>England,</hi> as the Tribe of <hi>Levi</hi> was the Twelfth part of <hi>Iſrael.</hi>
+               </q>
+            </p>
+            <p>And therefore, ſaith he, <q rend="margQuotes">'it is an idle Dream, and a Bugbear, to call detaining of Tythe, Sacriledge; ex<g ref="char:EOLhyphen"/>cept it can be proved, that God, or
+<pb n="13" facs="tcp:36052:7"/>Chriſt, or the Apoſtles ever took (or commanded to be taken) the Tenth to Goſpel Miniſters, (as God ex<g ref="char:EOLhyphen"/>preſly commanded the Tythes of all <hi>Iſrael</hi> to the <hi>Levites</hi>) that bear no proportion in Number to the Tribe of <hi>Levi,</hi> nor are the Tenth part, nor ſcarce the Hundredth part of moſt Pariſhes, and yet ſhall lick up the whole Tenth of the Pariſh.</q>
+            </p>
+            <p>He further adds in the ſame page, concerning thoſe great Tythes which by <hi>Henry</hi> VIII. were taken from the Abbots and Nuns, <q rend="margQuotes">'That they, as gotten by a <hi>Cheat,</hi> Eſcheated to the King by the Law of the Land.</q>
+            </p>
+            <p>Now whether all the reſt of the Clergies Tythes were not gotten by a Cheat, as much as the Abbots and Nuns, and may as lawfully Eſcheat to the King as the other, I leave to more able Judgments to determine, when it ſhall be judged expedient by the Go<g ref="char:EOLhyphen"/>vernment, to Debate it.</p>
+            <p>But until a Seiſure be made by the Government, totally taking away the Sacerdotical uſe thereof as aforeſaid, I
+<pb n="14" facs="tcp:36052:8" rendition="simple:additions"/>know none have more Right to the Tythe, than the Owners of the Land: Becauſe I believe all Clergy-mens Claims are of no force, and all who Conſcienciouſly refuſe to pay them, ſay as much in plain <hi>Engliſh,</hi> by their denial of them: For they cannot de<g ref="char:EOLhyphen"/>mand Tythe but upon the Account of their Miniſtry, and other Eccleſiaſti<g ref="char:EOLhyphen"/>cal Offices, which if they neglect, the Law will not give it them. Where<g ref="char:EOLhyphen"/>fore by paying Tythe in Obedience to ſuch a Law, I practically own and ſupport that Prieſthood, Offices and Calling. And it's but an Equivocati<g ref="char:EOLhyphen"/>on to ſay I diſown them, and yet pay to maintain them. Every Eye may ſee, fear to ſuffer, is the Motive to pay, whatever is pretended. Nor will it excuſe to ſay, it's paid only in Obedi<g ref="char:EOLhyphen"/>ence to the Law; for by that Argu<g ref="char:EOLhyphen"/>ment I may as lawfully go to Maſs as to Meetings, if a Law ſhould com<g ref="char:EOLhyphen"/>mand it, which God forbid.</p>
+            <p>
+               <q rend="margQuotes">'<hi>Obj.</hi> I have ſeen an Objection in <gap reason="illegible" resp="#OXF" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:36052:8" rendition="simple:additions"/>to ſpring from the Root, <hi>viz.</hi> That by denying Tythes we teach the Tenants to Popiſh Landlords, to pay them no Rent, becauſe they may imploy it to Popiſh Services.</q>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Proper Compariſons explain things, improper caſt a Miſt before the Reader's Eyes. Popiſh Landlords do not let their Lands upon Condition, the Rent ſhall be paid to their Prieſts by the Tenant, for ſaying Maſſes, if they ſhould, I know no Proteſtant that would be their Tenant. They let their Lands as other Men, to have the Rent paid to themſelves; and it's not a Tenant's Concern, to inquire what his Landlord will do with his Rent.</p>
+            <p>
+               <q rend="margQuotes">'<hi>Obj.</hi> But further, the ſame Author very plauſibly, and no doubt very ſtrongly in his own Opinion, returns the thing upon us thus, as if the Caſe were our own. If you or I (ſaith he) ſhould by a Deed for Ever, give a Ninth part of our Eſtates, to Teach<g ref="char:EOLhyphen"/>ers of our own Perſwaſion, over and
+<pb n="16" facs="tcp:36052:9"/>above the Tenth, which is none of ours, and ſhould after ſell the remain<g ref="char:EOLhyphen"/>ing Eight parts, and abate the Buyer proportionably in Price, would you not count ſuch a Buyer a Thief, if he ſhould take that Ninth part, and call it his own, ſaying, We gave it to a bad Uſe?</q>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No, I ſhould rather count the Seller a Cheat, and the Buyer a Fool. For inſtance; Suppoſe the Land thus ſold contains Ninety Acres, is not he a Cheat, that gives away Ten of them, and yet ſells me the whole Ninety? for my Deed muſt mention, either Eighty or Ninety. If but Eighty A<g ref="char:EOLhyphen"/>cres is expreſſed, it's folly to claim any more; but if the whole Ninety be in, I am no Thief to keep it all.</p>
+            <p>
+               <q rend="margQuotes">'<hi>Obj.</hi> But here it will be replied, that though the whole Ninety Acres were in the Writing, yet I had an im<g ref="char:EOLhyphen"/>plicite Abatement, in Conſideration of my paying the Ninth part to ſuch Preachers.</q>
+            </p>
+            <pb n="17" facs="tcp:36052:9" rendition="simple:additions"/>
+            <p>
+               <hi>Anſ.</hi> The Reaſon of this Abatement, when the Bargain was made, was ei<g ref="char:EOLhyphen"/>ther mentioned or not; if it was, and agreed unto by the Buyer, the Objecti<g ref="char:EOLhyphen"/>on is good, but if it was not, as gene<g ref="char:EOLhyphen"/>rally it is not, in the Caſe of Tythe, then this Objection, takes for granted, that the Buyer muſt do, what the Sel<g ref="char:EOLhyphen"/>ler thinks he muſt do. This is childiſh, to ſuppoſe, that a Seller's Thoughts muſt be a Rule for the Buyer's Acti<g ref="char:EOLhyphen"/>ons.</p>
+            <p n="2">2. But ſecondly, This implicite A<g ref="char:EOLhyphen"/>batement begs, what I utterly deny, viz. <hi>That a Man may bind his Heirs to pay what he gives to uphold ſuch Religi<g ref="char:EOLhyphen"/>ons <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Forms of Worſhip as he himſelf believes to be right.</hi> The very Go<g ref="char:EOLhyphen"/>vernment of <hi>England</hi> have denied this; for by their taking Tythes as aforeſaid, from the <hi>Roman</hi> Clergy, to whom they were firſt given, and giving them to their own Clergy, they plainly de<g ref="char:EOLhyphen"/>clare, That Gifts given to bad Uſes, are not binding, nor ought to be im<g ref="char:EOLhyphen"/>ploy'd to ſuch purpoſes. To confirm this, hear what one <hi>Brightman,</hi> a Fa<g ref="char:EOLhyphen"/>mous
+<pb n="16" facs="tcp:36052:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:36052:10" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:36052:11"/>Man in his day, ſaith in his Ex<g ref="char:EOLhyphen"/>poſition of <hi>Rev.</hi> 17.16. <q rend="margQuotes">'By what Right doth <hi>Rome</hi> challenge her Terri<g ref="char:EOLhyphen"/>tories? What did the Emperors give it them? Juſt ſo as <hi>Conſtantine</hi> gave his Palace to the City of <hi>Rome.</hi>
+               </q>
+            </p>
+            <p>
+               <q rend="margQuotes">'But admit (ſaith he) that <hi>Pepin</hi> and <hi>Charles,</hi> gave them all this, they gave it, when they knew not what they did: They thought they did it to advance the Chriſtian Religion; but ſeeing it is now found out by la<g ref="char:EOLhyphen"/>mentable Experience, that there was never any thing hath more redounded to the undoing of the Church, and the overthrow of Piety, than this Bounty of theirs, why ſhould not the Emperors take their own again?</q>
+            </p>
+            <p>That the Civil Magiſtrate hath power to convert Payments from Re<g ref="char:EOLhyphen"/>ligious Ceremonies to Civil Uſes, is in<g ref="char:EOLhyphen"/>diſputably confirmed by our Saviour himſelf, both by paying and command<g ref="char:EOLhyphen"/>ing that Tribute to be paid which is mentioned, <hi>Mat.</hi> 17.24. and Chap. 22.21. For if <hi>Godwin</hi>'s Records of thoſe Times, and the Marginal Notes
+<pb n="19" facs="tcp:36052:11"/>in our Bibles be true, that Tribute had been long paid to the Temple at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem, Exod.</hi> 30.13. And this is very probable, for if it had been an ordina<g ref="char:EOLhyphen"/>ry Tribute, there had not been ſuch Ground to ſcruple it. But <hi>Caeſar</hi>'s ta<g ref="char:EOLhyphen"/>king it from the Temple, might exaſ<g ref="char:EOLhyphen"/>perate the <hi>Jews,</hi> as well others as the <hi>Galileans,</hi> and raiſe the Queſtion ſo high, as, Whether it were lawful to pay it him or not? But Chriſt ends the Controverſie, as before ſaid, without diſputing <hi>Caeſar</hi>'s Authority to receive it, which doubtleſs they which came to trap him, thought he would have done, or elſe I ſee no Snare in their Queſtion, <hi>ver.</hi> 17.</p>
+            <p>But to return a full and final An<g ref="char:EOLhyphen"/>ſwer to this Objection. You may ſee plainly how it begs all them for Fools, who deny Tythes to be a Maintenance for Goſpel Miniſters, by ſuppoſing them willing to encumber their Land with what they diſown: And their Miniſters alſo to be of the ſame Princi<g ref="char:EOLhyphen"/>ple to receive ſuch a kind of Mainte<g ref="char:EOLhyphen"/>nance,
+<pb n="20" facs="tcp:36052:12"/>which is not to be ſuppoſed in this Caſe.</p>
+            <p>Thus we ſee how ignorantly Men argue when out of Truth, how con<g ref="char:EOLhyphen"/>fuſedly they jumble things Temporal and Spiritual together, ſuppoſing things not to be ſuppoſed, to make a Paint for <hi>Diana</hi> Tythe. And then fol<g ref="char:EOLhyphen"/>lows harſh words, as Cheats, and Thieves, for not paying it. But what care ſome, ſo long as they can quiet their Minds with this, That they have a Law for it. So did Informers of late, and the <hi>Jews</hi> of old, <hi>Joh.</hi> 19.7.</p>
+            <p>But whether a Law will ſtand the Trial before the Great Law-maker of Heaven and Earth, is too often the leaſt part, though it ſhould be the principal Part of every Man's Exami<g ref="char:EOLhyphen"/>nation, before he conform to it. But are not ſuch of <hi>Veſpaſian</hi>'s Humour? who when he was adviſed not to lay a Tax upon Urine, it is ſaid he an<g ref="char:EOLhyphen"/>ſwered,
+<q>
+                  <lg>
+                     <l>Dulcis odor lucri ex re qualibet.</l>
+                  </lg>
+                  <pb n="21" facs="tcp:36052:12" rendition="simple:additions"/>
+                  <lg>
+                     <l>No kind of Profit comes amiſs,</l>
+                     <l>If got by a Law, tho' it ſtinks like Piſs.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>
+               <q rend="margQuotes">'<hi>Obj.</hi> Laſtly, The Prieſt hath one more fling at us, ſaying, His Title to the Tenth is as good as ours to the other Nine parts; and that the Law hath given him a Right to it, as much as of the Reſt to us.</q>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This fair ſhew hath a falſe Foundation. For the Law creates not a Right or Title to things of this Na<g ref="char:EOLhyphen"/>ture betwixt Man and Man. Gift or Purchaſe is the true Ground of Right and Property. When a Man Buys an Eſtate, or hath it given him, it is truly his own, before any Writings be made; yet we go to Counſel to have them drawn, to ſecure it from falſe Claims. So the Law in this Caſe may fitly be compared to a Man of War, which defends the Merchant's Goods from Pyrates. But the Mer<g ref="char:EOLhyphen"/>chant's Title to his Goods is not deri<g ref="char:EOLhyphen"/>ved from the Man of War.</p>
+            <pb n="22" facs="tcp:36052:13" rendition="simple:additions"/>
+            <p>
+               <q rend="margQuotes">'<hi>Obj.</hi> If any Reply, That the Law gives the Poor a Right to the Rates or Taxes charged upon our Land with<g ref="char:EOLhyphen"/>out our Conſent.</q>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Poor's Right to Relief is grounded upon the Law of God, <hi>Lev.</hi> 25.35. <hi>Rom.</hi> 15.26, 27. <hi>Gal.</hi> 2.10, <hi>&amp;c.</hi> and he is not a Chriſtian that denies it: Therefore it's not the Law of the Land, that gives the Poor an Original Right to Relief; it only doth, as aforeſaid, ſecure Relief to them, by commanding equal Collecti<g ref="char:EOLhyphen"/>ons for them in all Pariſhes.</p>
+            <p>I might further ſhew, if it were needful, how unreaſonable it is for the Prieſt to force thoſe to pay him, that never hear him, or receive any Benefit by his Miniſtry. But moſt Peoples Eyes are open to ſee this. I know no Man, not concern'd in Tythe, nor blinded with Prejudice, but will grant, there is as little Reaſon, why I ſhould be compell'd to maintain a Miniſter of his Religion, as for him to maintain
+<pb n="23" facs="tcp:36052:13"/>one of mine: Or for me to build or re<g ref="char:EOLhyphen"/>pair a Place for him to worſhip in, as for him to repair one for me. This Fruit would naturally grow upon the Tree of Conſcience Liberty, did not ſome kind of Brids ſpoil the Bloſſoms.</p>
+            <p>Truth hath always pure Reaſon on its ſide, and it teaches every Friend rightly to their meaſure to anſwer Queſtions of the hope in them, 1 <hi>Pet.</hi> 3.15. And I pray with the Apoſtle, 2 <hi>Theſ.</hi> 3.2. to be delivered from un<g ref="char:EOLhyphen"/>reaſonable Men, for ſuch have not Faith. But I ſhall briefly conclude this about Reaſon, with thoſe Ingeni<g ref="char:EOLhyphen"/>ous Verſes of <hi>Palingenius</hi> concerning it, <hi>Lib.</hi> 8.
+<q>
+                  <lg>
+                     <l>Quicquid <hi>Ariſtoteles</hi> vel quivis dicat eo<g ref="char:EOLhyphen"/>rum</l>
+                     <l>Dicta nihil moror, a vero quum forte re<g ref="char:EOLhyphen"/>cedunt.</l>
+                     <l>Nemo putet ſibi me addictum; mihi fle<g ref="char:EOLhyphen"/>ctere mentem</l>
+                     <l>Solo ſolet Ratio, Ratio Dux fida Sophorum:</l>
+                     <l>Hanc ſcrutator amet veri, imprimiſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſequatur.</l>
+                  </lg>
+                  <pb n="24" facs="tcp:36052:14" rendition="simple:additions"/>
+                  <lg>
+                     <l>When Learned Rabbies, or great <hi>Ariſto<g ref="char:EOLhyphen"/>tle,</hi>
+                     </l>
+                     <l>Recede from Truth, their Talk's but Tit<g ref="char:EOLhyphen"/>tle Tottle.</l>
+                     <l>Let no Man think me to himſelf to bind,</l>
+                     <l>Reaſon, pure Captain Reaſon rules my Mind;</l>
+                     <l>And every Man's, that ſeeks the Truth to find.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>So, dear Friends, I have given you very plain and ſhort Anſwers to the ſtrongeſt Arguments, I ever heard for the Prieſt's Tythes. I pray God con<g ref="char:EOLhyphen"/>vince all in Power, that we are not a<g ref="char:EOLhyphen"/>gainſt any Man's Civil Property; nor that we deny Tythe becauſe it's a bur<g ref="char:EOLhyphen"/>den to our Eſtates, but to our Conſci<g ref="char:EOLhyphen"/>ences. We know our Saviour hath put an end to them, and we dare not continue them: But are made willing rather to ſuffer the ſevere Penalties of the Law, as Writs of Rebellions, Se<g ref="char:EOLhyphen"/>queſtrations, Outlawries, Treble Da<g ref="char:EOLhyphen"/>mages, and Impriſonments unto Death. Lord incline the Government to take
+<pb n="25" facs="tcp:36052:14"/>off theſe hard things, before the Cry of the Oppreſſed bring down greater Ca<g ref="char:EOLhyphen"/>lamities than yet we have ſeen. In the mean time, that we may ſtand faithful and patient under all, to the End, is the Deſire and Prayer of,</p>
+            <closer>
+               <signed>Your True Friend, <hi>W. L.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="26" facs="tcp:36052:15"/>
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>IN the End of many Bibles there is a Form of Prayer, for private Fami<g ref="char:EOLhyphen"/>lies, bound up no doubt but by Conſent of Authority. It begins thus,</hi>
+            </p>
+            <p>Almighty and moſt Merciful Fa<g ref="char:EOLhyphen"/>ther— <hi>and about the middle it goes on thus</hi>— And becauſe thou haſt commanded us to pray one for another, we do not only make our Requeſt (O Lord) for our ſelves, but for all Peo<g ref="char:EOLhyphen"/>ple and Nations of the World, who as they know by thy Wonderful Works, that thou art God over all, ſo they may be inſtructed by thy <hi>Holy Spirit</hi> to believe in thee their only Saviour and Redeemer. But for as much as they cannot believe except they hear, nor cannot hear but by Preaching, and none can Preach except he be ſent: Therefore (O Lord) raiſe up faith<g ref="char:EOLhyphen"/>ful Diſtributers of thy <hi>Myſteries,</hi> who ſetting apart all <hi>Worldly Reſpects,</hi> may
+<pb n="27" facs="tcp:36052:15"/>both in their Life and Doctrine only ſeek thy Glory. Contrarily confound Satan, Antichriſt, with all <hi>Hirelings, (and Papiſts in ſome Copies)</hi> whom thou haſt already caſt off into a Repro<g ref="char:EOLhyphen"/>bate Senſe, that they may not by Sects, Schiſms, Hereſies and Errors diſquiet thy <hi>little Flock.</hi> And becauſe (O Lord) we be fallen into the latter Days and dangerous Times, wherein Igno<g ref="char:EOLhyphen"/>rance hath gotten the upper hand, and Satan by his Miniſters, ſeeks by all means to quench the Light of thy Go<g ref="char:EOLhyphen"/>ſpel, we beſeech thee to maintain thy Cauſe againſt thoſe <hi>Ravening Wolves,</hi> and ſtrengthen all thy Servants, whom they keep in Priſon and Bondage.</p>
+            <closer>Quis non ſubſcriberet—Amen?</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36052:16" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
